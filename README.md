@@ -10,4 +10,3 @@ Scrapes image url and text from [NASA's Picture of the Day]("https://apod.nasa.g
 - Mongoose - mongodb
 - Cors - cross origin resource sharing
 - Dotenv - hide keys
-- Docker - containerize node-app, mongodb database, react-app
